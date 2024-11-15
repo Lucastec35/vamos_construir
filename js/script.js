@@ -1,5 +1,5 @@
 // Definir a data final da promoção
-const countdownDate = new Date("FEB 31, 2024 23:59:59").getTime();
+const countdownDate = new Date("FEV 31, 2024 23:59:59").getTime();
 
 const countdown = setInterval(() => {
     const now = new Date().getTime();
